@@ -22,7 +22,7 @@ To create an AI-powered system that extracts, correlates, and summarizes actiona
     * Include exploitability scores, affected software, and patch availability.
 * Highlight trending CVEs and emerging exploits.
 
-** 3. Attack Vector Analysis**
+**3. Attack Vector Analysis**
 
 * Identify attack vectors from unstructured data (e.g., phishing, misconfigurations, zero-day exploits).
 * Provide insights into how attacks propagate across systems or networks.
