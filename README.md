@@ -11,7 +11,7 @@ To create an AI-powered system that extracts, correlates, and summarizes actiona
 **1. Attack Vector Analysis**
 
 * Identify attack vectors from unstructured data (e.g., phishing, misconfigurations, zero-day exploits).
-* Provide insights into how attacks propagate across systems or networks.
+* Provide insights into how threats originate and enter systems or networks.
 
 **2. Attack Path Analysis**
 
