@@ -8,40 +8,40 @@ To create an AI-powered system that extracts, correlates, and summarizes actiona
 
 ### Features
 
-**1. IoC Extraction
+**1. IoC Extraction**
 
 * Automatically extract Indicators of Compromise (IoCs):
     * IP addresses, domains, URLs.
     * File hashes (e.g., MD5, SHA256).
 * Validate IoCs with enrichment sources such as VirusTotal, GreyNoise, and AbuseIPDB.
 
-**2. CVE Identification and Enrichment
+**2. CVE Identification and Enrichment**
 
 * E*xtract CVE IDs from unstructured text in articles and reports.
 * Enrich CVE data using the National Vulnerability Database (NVD) or CVE Details API:
     * Include exploitability scores, affected software, and patch availability.
 * Highlight trending CVEs and emerging exploits.
 
-** 3. Attack Vector Analysis
+** 3. Attack Vector Analysis**
 
 * Identify attack vectors from unstructured data (e.g., phishing, misconfigurations, zero-day exploits).
 * Provide insights into how attacks propagate across systems or networks.
 
-**4. TTPs Mapping
+**4. TTPs Mapping**
 
 * Map threats to the MITRE ATT&CK framework:
     * Tactics (e.g., Initial Access, Execution).
     * Techniques (e.g., Phishing, Command and Control).
 * Correlate TTPs with known threat actors or campaigns.
 
-**5. Threat Actor Intelligence
+**5. Threat Actor Intelligence**
 
 * Enrich insights with threat actor profiles:
     * Historical campaigns.
     * Preferred attack methods and tools.
     *   Industries and regions targeted.
 
-**6. Risk Scoring and Prioritization
+**6. Risk Scoring and Prioritization**
 
 * Assign risk scores by combining:
     * IoCs, CVEs, and TTPs.
