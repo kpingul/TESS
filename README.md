@@ -3,7 +3,7 @@ Threat Extraction and Summarization System - AI-Powered Threat Intelligence Summ
 
 ## Objective
 
-To create an AI-powered system that extracts, correlates, and summarizes actionable cybersecurity insights, including attack vectors, attack paths, TTPs, and other contextual data, enabling organizations to transition from reactive to proactive security measures.
+To create an AI-powered system that extracts, correlates, and summarizes threat reports, news feeds, and other sources into actionable cybersecurity insights, including attack vectors, attack paths, TTPs, and other contextual data, enabling organizations to transition from reactive to proactive security measures.
 
 
 ### Features
@@ -39,3 +39,4 @@ To create an AI-powered system that extracts, correlates, and summarizes actiona
     * IoCs, CVEs, and TTPs.
     * Contextual factors like exploitability, frequency, and severity.
 * Provide dynamic prioritization for actionable responses.
+
